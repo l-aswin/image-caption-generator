@@ -1,0 +1,4 @@
+Install tensorflow-gpu for windows
+https://www.tensorflow.org/install/pip#windows-wsl2
+
+https://keras.io/examples/vision/image_captioning/
